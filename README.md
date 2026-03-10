@@ -1,0 +1,2 @@
+# LatteConfig
+Latte's Config
